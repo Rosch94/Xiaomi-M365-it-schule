@@ -1,7 +1,5 @@
-﻿#This is still a test project
 
-
-
+Doc will come soon.
 
 # Credits & Thanks to
  - Paco Gorina for his research on the protocoll and packet structure (-> http://www.gorina.es/9BMetrics/)
