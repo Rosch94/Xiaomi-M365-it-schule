@@ -1,6 +1,4 @@
 
-Doc will come soon.
-
 # Credits & Thanks to
  - Paco Gorina for his research on the protocoll and packet structure (-> http://www.gorina.es/9BMetrics/)
  - CamiAlfa for his research and providing informations about the contents of the packets & arrays (-> https://github.com/CamiAlfa/M365-BLE-PROTOCOL)
